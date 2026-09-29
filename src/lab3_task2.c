@@ -49,10 +49,10 @@ void swap(int* x, int* y) {
   *x = *y;
   *y = temp;
 
-  // TODO: swap values using a temporary variable
+  
 }
 
 void modify_value(int* x) {
   *x = *x * 2;
-  // TODO: multiply value by 2
+  
 }
